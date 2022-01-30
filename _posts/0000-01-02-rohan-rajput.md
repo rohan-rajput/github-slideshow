@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: slide 1
+title: "Welcome to our second updated slide!"
 ---
-Your text
-Use the left arrow to go back!
+New test text
+Done
